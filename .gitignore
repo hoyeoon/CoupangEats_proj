@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.properties
+.idea/
+.settings/
+.gradle/
+gradle/
+build/
+logs/
+out/
+*.yml
