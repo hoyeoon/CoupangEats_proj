@@ -13,7 +13,7 @@
 ### ERD 설계
 - https://aquerytool.com/aquerymain/index/?rurl=92f8819b-dcda-4e2e-bd93-c0095a35bc0c
 - **URL Password** : 7y8647
-### 프로젝트 Restful API 소스 코드
+### Restful API 소스 코드
 - https://github.com/hoyeoon/CoupangEats_proj/tree/master/src/main/java/com/example/demo/src
 ### Restful API 명세서
 - https://docs.google.com/spreadsheets/d/1i3vnvtIMHIlsGDC8gWX3SnduRcF46vfotca1fXJfRDQ/edit#gid=1418854438
