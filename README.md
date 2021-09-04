@@ -10,7 +10,7 @@
 - Tool : **IntelliJ IDEA, DataGrip, AqueryTool, Google 스프레드시트**
 - **Restful API**
 ## 참고 URL
-### ERD 설계
+### ERD 및 데이터스키마
 - https://aquerytool.com/aquerymain/index/?rurl=92f8819b-dcda-4e2e-bd93-c0095a35bc0c
 - **URL Password** : 7y8647
 ### Restful API 소스 코드
