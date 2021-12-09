@@ -10,7 +10,7 @@
 - Tool : **IntelliJ IDEA, DataGrip, AqueryTool, Google 스프레드시트**
 - **Restful API**
 ## 시스템 구성도
-![image](https://user-images.githubusercontent.com/63137585/145400957-5b64d1a9-e5ea-41fa-be29-fa76e288f8a8.png)
+![image](https://user-images.githubusercontent.com/63137585/145401158-e58c7ec6-f3cc-421c-b299-ccddc3d8b870.png)
 ## 참고 URL
 ### ERD 및 데이터스키마
 - https://aquerytool.com/aquerymain/index/?rurl=92f8819b-dcda-4e2e-bd93-c0095a35bc0c
